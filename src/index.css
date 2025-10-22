@@ -11,3 +11,19 @@ box-sizing: border-box;
  text-align: center;
 
 }
+
+.hero-content h1{
+ font-size: 3rem;
+ margin-bottom: 20px;
+}
+
+.cta-button {
+ background-color: #0c79af;
+ color: white;
+ padding: 15px 30px;
+ border-radius: 5px;
+ text-decoration: none;
+ font-size: 1rem;
+}
+
+
